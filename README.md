@@ -1,4 +1,4 @@
-Repository moved to [codeberg.org/randogoth/ocelli.git](https://codeberg.org/randogoth/ocelli.git)
+Repository moved to [code.randogoth.com/randogoth/ocelli.git](https://code.randogoth.com/randogoth/ocelli.git)
 
 # ocelli: Camera-Based TRNG
 
